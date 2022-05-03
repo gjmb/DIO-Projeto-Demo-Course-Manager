@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DIO-Projeto-Demo-Course-Manager';
+  name = 'John Boy'
 }
