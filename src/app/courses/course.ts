@@ -10,7 +10,7 @@ export class Course{
     releaseDate:string;
     description:string;
     
-    constructor(id:number,  name: string,imageURL: string,price: number,code: string,duration: number,rating: number,releaseDate:string,description:string){
+    constructor(id:number, name: string,imageURL: string,price: number,code: string,duration: number,rating: number,releaseDate:string,description:string){
         this.id=id;
         this.name=name;
         this.imageURL=imageURL;
